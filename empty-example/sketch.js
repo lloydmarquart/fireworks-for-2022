@@ -1,6 +1,6 @@
 // let gravity = -9.81;
 const NORMAL_GRAVITY = -9.81;
-let gravity = -9.81;
+let gravity = 9.81;
 let gravity_was_flipped = false;
 
 function seconds() {
